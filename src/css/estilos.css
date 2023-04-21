@@ -1,0 +1,101 @@
+
+body {
+    text-align: center;
+    max-width: 100vw;
+    max-height: 100vw; 
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(182, 178, 178);
+}
+
+main {
+    background-color:#ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    max-width: 900px;
+    max-height: 680px; 
+}
+
+.frase-topo p {
+    position: absolute;
+    top: 15px;
+    left: auto;
+    font-size: 15px;
+}
+
+.cabeçalho img {
+    filter: brightness(90%);
+    object-fit: cover;
+    width: 900px;
+    height: 220px;
+}
+
+.cabeçalho h1 {
+    position: absolute;
+    font-size: 80px;
+    top: 110px;
+    left: 25%;
+}
+
+.cabeçalho p {
+    position: absolute;
+    font-size: 20px;
+    top: 200px;
+    left: 25%;
+}
+
+.menu ul {
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 1000px;
+    height: 430px;
+    position: center;
+}
+
+.menu li img {
+    filter: brightness(70%);
+    margin-top: 36px;
+    margin-left: 22px;
+    object-fit: cover;
+    padding: 0;
+    width: 426px;
+    height: 57px;
+    border-radius: 3px;
+}
+
+.menu ul p {
+    margin-top: 55px;
+    margin-left: 40px;
+    z-index: 1;
+    position: absolute;
+    font-size: 20px;
+    color:antiquewhite
+}
+
+.busca {
+    text-align: left;
+    margin-top: 15px;
+    margin-left: 30px;
+    background-color: rgb(255, 255, 255);
+    width: 180px;
+    height: 20px;
+}
+  
+#txt-busca {
+    padding: 0;
+    font-size: 15px;
+    border: none;
+    height: 16px;
+    width: 90px;
+}
+
+
+hr {
+	width: auto;
+    margin-left: 50px; 
+    margin-right: 50px;
+	height: 1px;
+}

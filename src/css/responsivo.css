@@ -1,0 +1,16 @@
+/*
+não tem nada aqui... ainda não fiz o responsivo
+
+releve esse filtro
+('<')
+
+body {
+    text-align: center;
+    margin: auto;
+    filter: sepia(0.1);
+    filter: saturate(0.5);
+    filter: contrast(1.2);
+    filter: noise(0.1, seed=1);
+    filter: brightness(0.8);
+}
+*/
